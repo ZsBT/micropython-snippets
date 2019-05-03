@@ -1,6 +1,8 @@
 """
     IO extender for this chip
-    """
+    
+    @author github.com/ZsBT
+"""
 
 class pcf8575:
     _bytes = [0,0]

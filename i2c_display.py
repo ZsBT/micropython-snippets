@@ -1,6 +1,12 @@
 import machine, ssd1306, framebuf, uos
 from time import sleep_ms
 
+"""
+    playing with SSD1306.
+    not recommended to use at this stage
+    
+    @author github.com/ZsBT
+"""
 
 class zssd(ssd1306.SSD1306_I2C):
     def __init__(self, i2c, width=128, height=64):

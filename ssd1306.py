@@ -1,4 +1,4 @@
-# https://github.com/micropython/micropython/
+# based on https://github.com/micropython/micropython/
 # MicroPython SSD1306 OLED driver, I2C and SPI interfaces
 
 import time

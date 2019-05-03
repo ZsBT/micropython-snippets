@@ -1,6 +1,8 @@
-#
-#	asyncio http server
-#
+"""
+	asyncio http server
+	
+	@author github.com/ZsBT
+"""
 
 import gc, utime
 import uasyncio as asyncio

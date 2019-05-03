@@ -2,6 +2,8 @@
     class for Micro Servo 9g motor, model SG90
     
     tested under ESP8266, where the max PWM duty is 512.
+    
+    @author github.com/ZsBT
 """
 from machine import Pin,PWM
 

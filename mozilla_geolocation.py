@@ -1,3 +1,8 @@
+"""
+    wifi-based geolocation, using Mozilla's service
+    
+    @author github.com/ZsBT
+"""
 from ubinascii import hexlify
 import urequests,ujson
 
